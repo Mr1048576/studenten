@@ -1,4 +1,4 @@
 Studenten
 =========
 
-- [voorbeeld naam](github url)
+Oplijsting studenten
